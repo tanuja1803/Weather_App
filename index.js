@@ -11,7 +11,7 @@ const grantAccessButton = document.querySelector("[data-grantAccess]");
 //initially variables need???
 
 let currentTab = userTab;
-const API_KEY = "0989e348a6f0a236b68b8e23befd7499";
+const API_KEY="";
 currentTab.classList.add("current-tab");
 getfromSessionStorage();
 
